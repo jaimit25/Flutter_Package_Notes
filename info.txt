@@ -1,0 +1,6 @@
+flutter create --template=package name
+
+To publish : 
+
+cd circle 
+flutter pub pub publish
